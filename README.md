@@ -42,4 +42,4 @@ Model	Output Description
 - ✅ **Integrate with DAWs (Ableton, FL Studio, Logic Pro)** for music production.  
 - ✅ Deploy an **interactive music generator UI** for easy access.  
 
-Would you like **more features like AI voice synthesis, beat generation, or mobile app integration**? 
+MIT licence 
