@@ -1,11 +1,11 @@
-# 🎵 AI-Generated Music in Google Colab  
+# AI-Generated Music in Google Colab  
 
 This project explores **AI-generated music** using deep learning models like **Magenta** and **Riffusion**.  
 The models generate **music compositions** based on different **styles, moods, and input parameters**.
 
 ---
 
-## 📌 Features
+## Features
 ✅ **🎼 Generate Melodies** – Uses **Magenta’s Melody RNN** to create MIDI sequences.  
 ✅ **🎵 AI-Composed Music** – Generates full music pieces using AI-generated patterns.  
 ✅ **🎧 Convert MIDI to Audio** – Converts and plays AI-generated music using **FluidSynth**.  
@@ -14,14 +14,13 @@ The models generate **music compositions** based on different **styles, moods, a
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### **1️⃣ Install Dependencies**  
-Run the following command in **Google Colab**:
-```bash
+ - Run the following command in **Google Colab**:
 !pip install magenta midi2audio riffusion
 !apt-get install fluidsynth
-
+---
 🎶 Example Outputs
 Model	Output Description
 Magenta	Generates structured MIDI melodies.
