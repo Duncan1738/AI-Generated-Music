@@ -25,16 +25,11 @@ The models generate **music compositions** based on different **styles, moods, a
 Model	Output Description
 - Magenta	Generates structured MIDI melodies.
 - Riffusion	Creates AI-generated music based on text descriptions.
-  ---
-   Use Cases
-🎼 AI-generated background music for videos or games.
-🎹 Music composition assistance for musicians.
-🎧 Creative AI exploration for sound design.
-
-📧 Contact
-For questions or suggestions, feel free to reach out:
-👨‍💻 Duncan Kibet
-📌 GitHub Profile: github.com/Duncan1738
+  
+**Use Cases**
+-  AI-generated background music for videos or games.
+-  Music composition assistance for musicians.
+-  Creative AI exploration for sound design.
 
 🎵 Start generating AI-powered music today! 🚀
 📢 Fork the repo & create your own AI music compositions! 🎼🔥
