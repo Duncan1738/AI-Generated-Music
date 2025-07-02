@@ -10,7 +10,7 @@ The models generate **music compositions** based on different **styles, moods, a
 -  ** AI-Composed Music** – Generates full music pieces using AI-generated patterns.  
 -  ** Convert MIDI to Audio** – Converts and plays AI-generated music using **FluidSynth**.  
 -  ** Text-to-Music** – Uses **Riffusion** to generate music **directly from text prompts**.  
-=  ** Listen in Google Colab** – Play the generated **music within the notebook**.  
+-  ** Listen in Google Colab** – Play the generated **music within the notebook**.  
 
 ---
 
