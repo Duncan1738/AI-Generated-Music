@@ -6,11 +6,11 @@ The models generate **music compositions** based on different **styles, moods, a
 ---
 
 ## Features
-✅ ** Generate Melodies** – Uses **Magenta’s Melody RNN** to create MIDI sequences.  
-✅ ** AI-Composed Music** – Generates full music pieces using AI-generated patterns.  
-✅ ** Convert MIDI to Audio** – Converts and plays AI-generated music using **FluidSynth**.  
-✅ ** Text-to-Music** – Uses **Riffusion** to generate music **directly from text prompts**.  
-✅ ** Listen in Google Colab** – Play the generated **music within the notebook**.  
+-  ** Generate Melodies** – Uses **Magenta’s Melody RNN** to create MIDI sequences.
+-  ** AI-Composed Music** – Generates full music pieces using AI-generated patterns.  
+-  ** Convert MIDI to Audio** – Converts and plays AI-generated music using **FluidSynth**.  
+-  ** Text-to-Music** – Uses **Riffusion** to generate music **directly from text prompts**.  
+=  ** Listen in Google Colab** – Play the generated **music within the notebook**.  
 
 ---
 
@@ -38,8 +38,8 @@ Model	Output Description
 ---
 
 ## ** Next Steps**
-- ✅ Add **different instrument styles** (piano, guitar, synth, etc.).  
-- ✅ **Integrate with DAWs (Ableton, FL Studio, Logic Pro)** for music production.  
-- ✅ Deploy an **interactive music generator UI** for easy access.  
+-  Add **different instrument styles** (piano, guitar, synth, etc.).  
+-  **Integrate with DAWs (Ableton, FL Studio, Logic Pro)** for music production.  
+-  Deploy an **interactive music generator UI** for easy access.  
 
 MIT licence 
