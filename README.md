@@ -18,8 +18,8 @@ The models generate **music compositions** based on different **styles, moods, a
 
 ### **1️⃣ Install Dependencies**  
  - Run the following command in **Google Colab**:
-!pip install magenta midi2audio riffusion
-!apt-get install fluidsynth
+1. !pip install magenta midi2audio riffusion
+2. !apt-get install fluidsynth
 ---
 🎶 Example Outputs
 Model	Output Description
