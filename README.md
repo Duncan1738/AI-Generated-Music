@@ -31,15 +31,15 @@ Model	Output Description
 -  Music composition assistance for musicians.
 -  Creative AI exploration for sound design.
 
-🎵 Start generating AI-powered music today! 🚀
-📢 Fork the repo & create your own AI music compositions! 🎼🔥
+ Start generating AI-powered music today!
+ Fork the repo & create your own AI music compositions! 
 
 
 ---
 
-## **🚀 Next Steps**
+## ** Next Steps**
 - ✅ Add **different instrument styles** (piano, guitar, synth, etc.).  
 - ✅ **Integrate with DAWs (Ableton, FL Studio, Logic Pro)** for music production.  
 - ✅ Deploy an **interactive music generator UI** for easy access.  
 
-Would you like **more features like AI voice synthesis, beat generation, or mobile app integration**? 🚀🎶
+Would you like **more features like AI voice synthesis, beat generation, or mobile app integration**? 
