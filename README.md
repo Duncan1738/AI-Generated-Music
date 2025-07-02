@@ -21,11 +21,12 @@ The models generate **music compositions** based on different **styles, moods, a
 1. !pip install magenta midi2audio riffusion
 2. !apt-get install fluidsynth
 ---
-🎶 Example Outputs
+**Example Outputs**
 Model	Output Description
-Magenta	Generates structured MIDI melodies.
-Riffusion	Creates AI-generated music based on text descriptions.
-📌 Use Cases
+- Magenta	Generates structured MIDI melodies.
+- Riffusion	Creates AI-generated music based on text descriptions.
+  ---
+   Use Cases
 🎼 AI-generated background music for videos or games.
 🎹 Music composition assistance for musicians.
 🎧 Creative AI exploration for sound design.
